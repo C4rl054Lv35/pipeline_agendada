@@ -1,7 +1,0 @@
-Feature('login');
-
-Scenario('Login com sucesso',  ({ I }) => {
-
-    I.amOnPage('http://www.google.com.br/')
-
-});
